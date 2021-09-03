@@ -1,5 +1,4 @@
 $ErrorActionPreference = 'SilentlyContinue'
-git stash
 type nul >> "out/.nojekyll"
 git add out/ 
 git commit -m "Deploy Next.js to remote"
