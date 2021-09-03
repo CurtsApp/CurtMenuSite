@@ -1,14 +1,14 @@
 [
 
     {
-        "title": "Coco-Cold Brew",
+        "title": "Dark and Dreamy",
         "ingredients": [
             "kahlua",
             "choclate liquor"
         ]
     },
     {
-        "title": "Coco-Cold Tea",
+        "title": "Dark and Saucy",
         "ingredients": [
             "jaegermister",
             "choclate liquor"
@@ -25,7 +25,7 @@
     {
         "title": "Tennessee Mule",
         "ingredients": [
-            "vodka",
+            "whiskey",
             "ginger beer",
             "lime"
         ]
