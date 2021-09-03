@@ -1,44 +1,60 @@
 [
+
     {
-        "title": "Whiskey Sour",
+        "title": "Coco-Cold Brew",
         "ingredients": [
-            "lemon juice",
-            "whiskey"
-        ]
-    },
-    {
-        "title": "Kalua Drank",
-        "ingredients": [
-            "kalua",
+            "kahlua",
             "choclate liquor"
         ]
     },
     {
-        "title": "Mohito",
+        "title": "Coco-Cold Tea",
         "ingredients": [
-            "rum",
-            "mint",
-            "an ounce of love"
+            "jaegermister",
+            "choclate liquor"
+        ]
+    },
+    {
+        "title": "Moscow Mule",
+        "ingredients": [
+            "vodka",
+            "ginger beer",
+            "lime"
+        ]
+    },
+    {
+        "title": "Tennessee Mule",
+        "ingredients": [
+            "vodka",
+            "ginger beer",
+            "lime"
+        ]
+    },
+    {
+        "title": "Tequila Sunrise",
+        "ingredients": [
+            "tequila",
+            "orange juice",
+            "grenadine"
+        ]
+    },
+    {
+        "title": "Whiskey Sour",
+        "ingredients": [
+            "whiskey",
+            "lemon juice",
+            "simple syrup",
+            "angostura bitters"
         ]
     },
     {
         "title": "Gretta's Gumdrop",
         "ingredients": [
-            "bliss",
-            "fiend oil",
-            "apple cider viniger",
             "jaegermister",
-            "lemon juice"
+            "lemon juice",
+            "lemon cello lecroix",
+            "maple syrup",
+            "apple cider viniger"
         ]
-    },
-    {
-        "title": "Gretta's Gumdrop",
-        "ingredients": [
-            "bliss",
-            "fiend oil",
-            "apple cider viniger",
-            "jaegermister",
-            "lemon juice"
-        ]
-    }
+    }   
 ]
