@@ -19,9 +19,9 @@ export default function Home() {
         <p className={styles.description}>
           For today's event
         </p>
-
-        <div className={styles.grid}>
-          {menuItems.map(item => renderMenuItem(item))}
+        
+        <div>
+        {menuItems.map(item => renderMenuItem(item))}
         </div>
       </main>
     </div>
