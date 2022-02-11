@@ -28,6 +28,10 @@ export default function Home() {
   )
 
   function renderMenuItem(menuItem) {
+    if(menuItem.hidden) {
+      return null;
+    }
+    
     return <div className={styles.card}>
       <h2>{menuItem.title}</h2>
       <ul>

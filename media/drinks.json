@@ -1,6 +1,51 @@
 [
 
     {
+        "title": "Rum basil smash",
+        "ingredients": [
+            "white rum",
+            "lemon juice",
+            "simple syrup",
+            "basil"
+        ]
+    },
+    {
+        "title": "Mojito",
+        "ingredients": [
+            "white rum",
+            "lime",
+            "simple syrup",
+            "mint",
+            "fizz fluid"
+        ]
+    },
+    {
+        "title": "Classic Margarita",
+        "ingredients": [
+            "tequila",
+            "lime",
+            "triple-sec",
+            "simple syrup",
+            "salted rim"
+        ]
+    },
+    {
+        "title": "Mexican Firing Squad",
+        "ingredients": [
+            "tequila",
+            "lime",
+            "grenadine",
+            "angostura bitters"
+        ]
+    },
+    {
+        "title": "Orange Shrub Spritzer",
+        "ingredients": [
+            "orange shrub",
+            "ginger ale or fizz juice"
+        ]
+    },
+    {
         "title": "Dark and Dreamy",
         "ingredients": [
             "kahlua",
@@ -12,7 +57,8 @@
         "ingredients": [
             "jaegermister",
             "choclate liquor"
-        ]
+        ],
+        "hidden": true
     },
     {
         "title": "Moscow Mule",
@@ -20,7 +66,8 @@
             "vodka",
             "ginger beer",
             "lime"
-        ]
+        ],
+        "hidden": true
     },
     {
         "title": "Tennessee Mule",
@@ -28,7 +75,8 @@
             "whiskey",
             "ginger beer",
             "lime"
-        ]
+        ],
+        "hidden": true
     },
     {
         "title": "Tequila Sunrise",
@@ -36,11 +84,13 @@
             "tequila",
             "orange juice",
             "grenadine"
-        ]
+        ],
+        "hidden": true
     },
     {
         "title": "Nani Moon Mead",
-        "ingredients": []
+        "ingredients": [],
+        "hidden": true
     },
     {
         "title": "Whiskey Sour",
@@ -59,6 +109,7 @@
             "lemon cello lecroix",
             "maple syrup",
             "apple cider viniger"
-        ]
+        ],
+        "hidden": true
     }   
 ]
