@@ -15,7 +15,8 @@
             "lemon juice",
             "simple syrup",
             "basil"
-        ]
+        ],
+        "hidden": true
     },
     {
         "title": "Mojito",
