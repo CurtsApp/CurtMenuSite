@@ -1,6 +1,15 @@
 [
 
     {
+        "title": "Daiquri",
+        "ingredients": [
+            "white rum",
+            "lime",
+            "triple sec",
+            "simple syrup"
+        ]
+    },
+    {
         "title": "Peach Kentucky Mule",
         "ingredients": [
             "peach whiskey",
@@ -26,7 +35,8 @@
             "simple syrup",
             "mint",
             "fizz fluid"
-        ]
+        ],
+        "hidden": true
     },
     {
         "title": "Classic Margarita",
@@ -52,14 +62,16 @@
         "ingredients": [
             "orange shrub",
             "ginger ale or fizz juice"
-        ]
+        ],
+        "hidden": true
     },
     {
         "title": "Dark and Dreamy",
         "ingredients": [
             "kahlua",
             "choclate liquor"
-        ]
+        ],
+        "hidden": true
     },
     {
         "title": "Dark and Saucy",
@@ -76,7 +88,7 @@
             "ginger beer",
             "lime"
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "title": "Tennessee Mule",
@@ -85,7 +97,7 @@
             "ginger beer",
             "lime"
         ],
-        "hidden": true
+        "hidden": false
     },
     {
         "title": "Tequila Sunrise",
