@@ -1,5 +1,15 @@
 [
-
+    {
+        "title": "Paloma",
+        "ingredients": [
+            "tequila",
+            "grapefruit juice",
+            "sparkling water",
+            "simple syrup",
+            "lime"
+        ],
+        "hidden": false
+    },
     {
         "title": "Daiquri",
         "ingredients": [
@@ -46,7 +56,20 @@
             "triple-sec",
             "simple syrup",
             "salted rim"
-        ]
+        ],
+        "hidden": true
+    },
+    {
+        "title": "Grapefruit Margarita",
+        "ingredients": [
+            "tequila",
+            "lime",
+            "grapefruit juice",
+            "triple-sec",
+            "simple syrup",
+            "salted rim"
+        ],
+        "hidden": true
     },
     {
         "title": "Mexican Firing Squad",
@@ -106,7 +129,16 @@
             "orange juice",
             "grenadine"
         ],
-        "hidden": true
+        "hidden": false
+    },
+    {
+        "title": "Vodka Cranberry",
+        "ingredients": [
+            "vodka",
+            "cranberry juice",
+            "lime"
+        ],
+        "hidden": false
     },
     {
         "title": "Nani Moon Mead",
@@ -120,7 +152,8 @@
             "lemon juice",
             "simple syrup",
             "angostura bitters"
-        ]
+        ],
+        "hidden": true
     },
     {
         "title": "Gretta's Gumdrop",
