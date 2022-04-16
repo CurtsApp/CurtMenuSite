@@ -1,5 +1,25 @@
 [
     {
+        "title": "Watermelon Spritzer",
+        "ingredients": [
+            "gin",
+            "watermelon syrup (fresh)",
+            "lemon juice",
+            "mint",
+            "la croix"
+        ],
+        "hidden": false
+    },
+    {
+        "title": "Watermelon Bites Back",
+        "ingredients": [
+            "sambuca",
+            "watermelon syrup (fresh)",
+            "la croix"
+        ],
+        "hidden": false
+    },
+    {
         "title": "Paloma",
         "ingredients": [
             "tequila",
@@ -8,7 +28,7 @@
             "simple syrup",
             "lime"
         ],
-        "hidden": false
+        "hidden": true
     },
     {
         "title": "Daiquri",
@@ -25,7 +45,8 @@
             "peach whiskey",
             "lime",
             "ginger ale"
-        ]
+        ],
+        "hidden": true
     },
     {
         "title": "Rum basil smash",
@@ -78,7 +99,8 @@
             "lime",
             "grenadine",
             "angostura bitters"
-        ]
+        ],
+        "hidden": "true"
     },
     {
         "title": "Orange Shrub Spritzer",
@@ -111,7 +133,7 @@
             "ginger beer",
             "lime"
         ],
-        "hidden": false
+        "hidden": true
     },
     {
         "title": "Tennessee Mule",
@@ -120,7 +142,7 @@
             "ginger beer",
             "lime"
         ],
-        "hidden": false
+        "hidden": true
     },
     {
         "title": "Tequila Sunrise",
@@ -129,7 +151,7 @@
             "orange juice",
             "grenadine"
         ],
-        "hidden": false
+        "hidden": true
     },
     {
         "title": "Vodka Cranberry",
