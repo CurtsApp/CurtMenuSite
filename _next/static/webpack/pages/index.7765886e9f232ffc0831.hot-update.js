@@ -1,0 +1,14 @@
+self["webpackHotUpdate_N_E"]("pages/index",{
+
+/***/ "./media/drinks.json":
+/*!***************************!*\
+  !*** ./media/drinks.json ***!
+  \***************************/
+/***/ (function(module) {
+
+"use strict";
+module.exports = JSON.parse('[{"title":"Watermelon Spritzer","ingredients":["gin","watermelon syrup (fresh)","lemon juice","mint","la croix"],"hidden":true},{"title":"Watermelon Bites Back","ingredients":["sambuca","watermelon syrup (fresh)","la croix"],"hidden":true},{"title":"Paloma","ingredients":["tequila","grapefruit juice","sparkling water","simple syrup","lime"],"hidden":true},{"title":"Daiquri","ingredients":["white rum","lime","triple sec","simple syrup"],"hidden":true},{"title":"Rum basil smash","ingredients":["white rum","lemon juice","simple syrup","basil"],"hidden":true},{"title":"Mojito","ingredients":["white rum","lime","simple syrup","mint","fizz fluid"],"hidden":true},{"title":"Classic Margarita","ingredients":["tequila","lime","triple-sec","simple syrup","salted rim"],"hidden":true},{"title":"Grapefruit Margarita","ingredients":["tequila","lime","grapefruit juice","triple-sec","simple syrup","salted rim"],"hidden":true},{"title":"Mexican Firing Squad","ingredients":["tequila","lime","grenadine","angostura bitters"],"hidden":true},{"title":"Orange Shrub Spritzer","ingredients":["orange shrub","ginger ale or fizz juice"],"hidden":true},{"title":"Dark and Dreamy","ingredients":["kahlua","choclate liquor"],"hidden":true},{"title":"Dark and Saucy","ingredients":["jaegermister","choclate liquor"],"hidden":true},{"title":"Moscow Mule","ingredients":["vodka","ginger beer","lime"],"hidden":true},{"title":"Tennessee Mule","ingredients":["whiskey","ginger beer","lime"],"hidden":true},{"title":"Tequila Sunrise","ingredients":["tequila","orange juice","grenadine"],"hidden":false},{"title":"Screwdriver","ingredients":["vodka","orange juice"],"hidden":false},{"title":"Spiked Pineapple Ginger Punch","ingredients":["Pineapple Ginger Punch","vodka or tequila or rum"],"hidden":false},{"title":"Cherry Mead","ingredients":[],"hidden":false},{"title":"Rootbeer Mead","ingredients":[],"hidden":false},{"title":"Prickly Pear Mead","ingredients":[],"hidden":false},{"title":"Vodka Cranberry","ingredients":["vodka","cranberry juice","lime"],"hidden":true},{"title":"Nani Moon Mead","ingredients":[],"hidden":true},{"title":"Whiskey Sour","ingredients":["whiskey","lemon juice","simple syrup","angostura bitters"],"hidden":true},{"title":"Gretta\'s Gumdrop","ingredients":["jaegermister","lemon juice","lemon cello lecroix","maple syrup","apple cider viniger"],"hidden":true}]');
+
+/***/ })
+
+});
