@@ -8,7 +8,7 @@
             "mint",
             "la croix"
         ],
-        "hidden": false
+        "hidden": true
     },
     {
         "title": "Watermelon Bites Back",
@@ -17,7 +17,7 @@
             "watermelon syrup (fresh)",
             "la croix"
         ],
-        "hidden": false
+        "hidden": true
     },
     {
         "title": "Paloma",
@@ -37,14 +37,6 @@
             "lime",
             "triple sec",
             "simple syrup"
-        ]
-    },
-    {
-        "title": "Peach Kentucky Mule",
-        "ingredients": [
-            "peach whiskey",
-            "lime",
-            "ginger ale"
         ],
         "hidden": true
     },
@@ -100,7 +92,7 @@
             "grenadine",
             "angostura bitters"
         ],
-        "hidden": "true"
+        "hidden": true
     },
     {
         "title": "Orange Shrub Spritzer",
@@ -151,7 +143,38 @@
             "orange juice",
             "grenadine"
         ],
-        "hidden": true
+        "hidden": false
+    },
+    {
+        "title": "Screwdriver",
+        "ingredients": [
+            "vodka",
+            "orange juice"
+        ],
+        "hidden": false
+    },
+    {
+        "title": "Spiked Pineapple Ginger Punch",
+        "ingredients": [
+            "Pineapple Ginger Punch",
+            "vodka or tequila or rum"
+        ],
+        "hidden": false
+    },
+    {
+        "title": "Cherry Mead",
+        "ingredients": [],
+        "hidden": false
+    },
+    {
+        "title": "Rootbeer Mead",
+        "ingredients": [],
+        "hidden": false
+    },
+    {
+        "title": "Prickly Pear Mead",
+        "ingredients": [],
+        "hidden": false
     },
     {
         "title": "Vodka Cranberry",
@@ -160,7 +183,7 @@
             "cranberry juice",
             "lime"
         ],
-        "hidden": false
+        "hidden": true
     },
     {
         "title": "Nani Moon Mead",
@@ -187,5 +210,15 @@
             "apple cider viniger"
         ],
         "hidden": true
-    }   
+    },
+    {
+        "title": "Peach Kentucky Mule",
+        "ingredients": [
+            "peach whiskey",
+            "lime",
+            "ginger ale"
+        ],
+        "hidden": false
+    }
+     
 ]
